@@ -1,0 +1,7 @@
+Leader: f | Surviving member(s): a  d  ede  d  
+Number of rooms cleared: 0
+Gold pieces remaining: 100
+Treasure items in the party's inventory:  R: 0 | N: 0 | B: 0 | C: 0 | G: 0
+Number of spaces explored: 0
+Number of monsters defeated: 0
+Number of turns elapsed: 1
